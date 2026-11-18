@@ -1,4 +1,4 @@
-# Strudel – Brewing Sounds & Patterns
+# Strudel: Brewing Sounds & Patterns
 
 Welcome to my little corner of Strudel.
 
